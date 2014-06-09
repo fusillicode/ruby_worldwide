@@ -20,7 +20,7 @@ Name                                                | Location                  
 [Gray Productions](http://graysoftinc.com/)         | Edmond, Oklahoma, USA      |
 [Hashrocket](http://Hashrocket.com)                 | Jacksonville, Florida, USA |
 [Intentional Excellence](http://iephq.com)          |                            |
-[Mikamai](http://www.mikamai.com)                   |                            |
+[Mikamai](http://www.mikamai.com)                   | Milan, IT                  | sometimes
 [Neo](http://Neo.com)                               |                            |
 [New Bamboo](http://www.new-bamboo.co.uk)           | London, UK                 | no
 [NinjaConcept](http://ninjaconcept.com)             |                            |
